@@ -11,3 +11,7 @@ int div(int a, int b)
 {
     return a/b;
 }
+void test()
+{
+    printf("test function");
+}
